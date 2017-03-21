@@ -57,7 +57,7 @@ staging:
   <<: *test_environment_settings
 
 test:
-<<: *test_environment_settings
+  <<: *test_environment_settings
 ```
 
 Testing
